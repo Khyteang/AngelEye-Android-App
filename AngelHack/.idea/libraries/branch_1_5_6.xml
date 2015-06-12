@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="branch-1.5.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Application/src/main/res/libs/branch-1.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

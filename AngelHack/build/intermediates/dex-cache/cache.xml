@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/src/main/res/libs/branch-1.5.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a36abe346b205906a73d90c33bbc5431b260546d">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/branch-1.5.6-d1f1a026aa2fa5a6340414bd4828c91490b5f3a0.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-cdebec9926c0c7a6130c0a07fa6c70f34032b507.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-f18a19585422a585cc7ba930ee43a2e811a95090.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-2284d02ce476e0aa5743a3df751454b3efc9a433.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-8fab0a3d8e0aedb07f3a7a26cb21c1b1cd36dbd5.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-d4ea54a5851de12cfc0cbb5bf20bf3bd919384d8.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-4f88bedd0c46f56901dce91d9ce7d49deabf66b1.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-876b3fb7a86250e79b7f7230df0d6f3bab10658e.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5c0caafd8234798bb2b15f8435e255652425fa21.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-fd16e293173ca9a4e5db597bd8e673b437b977b4.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-ad0ef8e0b299ede9b91ef2cb2ca0578774bcad87.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-f1eaa5c2d5bf3af877440d9e98bfb3cfd3c75d2b.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-c730bfacec60ab49c6ac68521dffa7a4bfba89be.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-15d3c4cbd2e740323f7bb0cb823de849357aa1ca.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e2bb5b17adc1cb4afd8b7966b715beaf8034106a.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-fe11f3d5341d9be6d28ad7264151e701717e836d.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-0e0020684d02e447e14f8323053935ecd44382be.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-7da0d3b98631612c3bc6956890db66e3a859ec38.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-a01fc84b3b84a73eac6b744093d563db660c65fa.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/androidSDK/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a2a5d7e868661535221d47e58fc8a3cb3fe8acb6.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-de9a9b75ab3471f944b639c2bf306c843f8d75fe.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-33bc5ad6c971315f054a6a8e51bba60b6cb0321c.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-a353c44eceb29931fa0598fd83d83cc66af86e2b.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-093dbac48bed1138f66ec762d717a5374f03cc70.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-16dcb6ed60a9bb72b40aab99a1d7923b69973a54.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-4b27874188302a8bf4eab07e4715c05c4330bc58.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-3ffbec753ec28e45d0da1c23fb005a18819c5e9d.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-e08031678a9d591b81c2dcb1143e6de42e2d177a.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-98dd3f149efc2d0dcfd201a439006940c5af9b00.jar" />
+    </item>
+    <item
+        jar="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/rkrishnan/Documents/Stre.am/AngelHack/Application/build/intermediates/pre-dexed/debug/classes-0e80e8ebc79919f9ab0874a6bb397a2e3c6e503f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_donate">Donate</string>
+    <string name="tab_friends">Friends</string>
+    <string name="tab_analysis">Analysis</string>
+    <string name="tab_challenges">Challenges</string>
+
+</resources>
